@@ -1,0 +1,25 @@
+_repo: A-Noble-WomanThe-Life-Story-of-Edith-Cavell_35075
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Protheroe, Ernest
+    gutenberg_agent_id: '37445'
+    url: http://www.gutenberg.org/2009/agents/37445
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2011-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35075'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cavell, Edith, 1865-1915'
+- !lcc 'D501'
+title: 'A Noble Woman: The Life-Story of Edith Cavell'
+url: http://www.gutenberg.org/ebooks/35075
